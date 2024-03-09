@@ -1,0 +1,288 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+}
+.back-img{
+    height: 800px;
+    background-image: url("https://8f430952.rocketcdn.me/wp-content/uploads/2019/05/apps.55787.9007199266246365.687a10a8-4c4a-4a47-8ec5-a95f70d8852d.jpg");
+    background-size: cover;
+}
+.netflix-img{
+    height: 50px;
+    width: 200px;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/1198px-Netflix_2015_logo.svg.png");
+    background-size: cover;
+    position: absolute;
+    top: 40px;
+    left: 100px;
+}
+.lang{
+    height: 40px;
+    width: 80px;
+    position: absolute;
+    top: 40px;
+    right: 150px;
+    display: flex;    
+}
+.ops{
+    font-weight:700;
+    background-color: black;
+    width: 50px;
+    text-align: center;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border: none;
+}
+.signinbutton{
+    height: 40px;
+    width: 80px;
+    position: absolute;
+    top: 40px;
+    right: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    color: white;
+    border-radius: 10%;
+    font-weight:700;
+}
+.center_heading{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items:end;
+    font-weight: 700;
+    padding: 300px;
+    font-size: 25px;
+}
+.center_heading2{
+    height: 50px;
+    width: 500px;
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    top: 380px;
+    padding-top: 0;
+    padding-right: 50px;
+    padding-left: 650px;
+    padding-bottom: 10px;
+}
+.center_heading3{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 420px;
+    padding-top: 0;
+    padding-left: 480px;
+}
+.input_content{
+    height: 80px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 450px;
+    left: 550px;
+    bottom: 60px;
+    
+}
+.emailaddress{
+    height: 56px;
+    width: 400px;
+    font-size: larger;
+    background-color: #f3f3f3;
+    color: black;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;   
+}
+.getstartbutton{
+    height: 59px;
+    width: 170px;
+    position: absolute;
+    top: 10px;
+    left: 360px;
+    font-weight: 700;
+    font-size: 20px;
+    background-color: red;
+    color: white;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+.line1{
+    height: 8px;
+    background-color: rgb(91, 89, 89);
+}
+.box2{
+    height: 588px;
+    background-color: black;
+}
+.contentmain{
+    height: 162px;
+    width: 589px;
+    color: white;
+    position:relative;
+    top: 200px;
+    left: 100px;
+}
+.content1{
+    font-size: 25px;
+    font-weight: 700;
+}
+.content2{
+    font-size: 25px;
+    padding-top: 25px;
+}
+.img2{
+    height: 100%;
+    width: 300px;
+    position: relative;
+    right: 50px; 
+    left: 800px;
+    bottom: 100px;
+    text-align: center;
+}
+.video1{
+    margin-top: -900px;
+    margin-left: 850px;
+    margin-bottom: 220px;
+    
+}
+.contentmain2{
+    height: 162px;
+    width: 589px;
+    color: white;
+    position:relative;
+    top: 200px;
+    left: 100px;
+    margin-left: 700px;
+}
+.content3{
+    font-size: 25px;
+    font-weight: 700;
+}
+.content4{
+    font-size: 25px;
+    padding-top: 25px;
+}
+.img3{
+    height: 25px;
+    width: 50px;
+    margin-top: -80px;
+}
+.video2{
+    height: 200px;
+    width: 100%;
+    margin-top: -800px;
+    margin-left: 350px;
+    margin-bottom: 450px;
+}
+.box3{
+    height: 900px;
+    background-color: black;
+
+}
+.heading{
+    font-size: 25px;
+    color: white;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   padding-top: 50px;
+
+}
+.smallbox1{
+    height: 25px;
+    width: 820px;
+    background-color: rgb(69, 67, 67);
+    padding: 24px;
+    margin-top: 25px;
+    margin-left: 300px;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}
+.smallbox1:hover{
+    background-color: rgb(97, 97, 97);
+}
+.plus{
+    color: white;
+    font-size: 40px;
+    padding-left: 800px;
+    margin-top: -30px;
+
+}
+
+.center_heading32{
+    color: white;
+    font-size: 20px;
+    padding-top: 40px;
+    padding-left: 400px;
+}
+.input_content2{
+    height: 80px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    margin-left: 500px;    
+}
+.emailaddress2{
+    height: 56px;
+    width: 400px;
+    padding-left: 25px;
+    margin-left: -150px;
+    font-size: larger;
+    background-color: #f3f3f3;
+    color: black;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;   
+}
+.getstartbutton2{
+    height: 59px;
+    width: 170px;
+    font-weight: 700;
+    font-size: 20px;
+    background-color: red;
+    color: white;
+    margin-left: 15px;
+    margin-right: -100px;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+.box4{
+    height: 588px;
+    background-color: black;
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.list{
+    color: white;
+    height: 300px;
+
+}
+ul a{
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 10px;
+    color: #dddddd;
+}
+
+/* @media (max-width: 600px) {
+    *{
+        width: 1000px;
+    }
+} */
